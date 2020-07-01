@@ -1,0 +1,62 @@
+body {
+  font-family: 'Electrolize', sans-serif;
+  margin: 0;
+}
+h1{
+  font-size: 4rem;
+}
+#main {
+  text-align: center;
+  background-color: #1b262c;
+  color: #bbe1fa;
+  padding: 10px;
+}
+
+/* Image Section */
+#img-div {
+  padding: 5% 3%;
+  background-color: #243945;
+  max-width: 93%;
+  margin: 3% auto;
+}
+
+#image {
+  margin: 0 auto;
+  display: block;
+  width: 900px;
+  max-width: 100%;
+  height: auto;
+}
+
+#img-caption {
+  font-size: 25px;
+  position: relative;
+  top: 30px;
+  font-weight: bold;
+}
+
+/* Tribute Section */
+#tribute-info {
+  padding: 1% 0 8%;
+  width: 70%;
+  margin: 0 auto;
+}
+
+#tribute-paragraph {
+  text-align: left;
+  line-height: 1.5;
+  font-size: 28px;
+}
+
+#tribute-link:hover {
+  text-decoration: underline;
+}
+
+#tribute-link {
+  text-decoration: none;
+  color: #c70039;
+  font-size: 2rem;
+  font-weight: bold;
+  position: relative;
+  top: 60px;
+}
